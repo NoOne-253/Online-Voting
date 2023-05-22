@@ -1,4 +1,4 @@
-<h1> Online Voting System using </h1>
+<h1> Online Voting System </h1>
 <b>Online voting is an electronic way of choosing leaders via a web driven application. The 
 advantage of online voting over the common “queue method” is that the voters have the choice 
 of voting at their own free time and there is reduced congestion. It also minimizes on errors of 
@@ -14,6 +14,6 @@ However, not just anybody can vote. For one to participate in the elections, he/
 the requirements. For instance, he/she must be a registered citizen i.e. must be 18 and above 
 years old. As already stated, the project ‘Online Voting' provides means for fast and convenient 
 voting and access to this system is limited only to registered voters.</b></br>
-<h4>Front End:</h4>HTML,CSS,JavaScript</br>
-<h4>Back End:PHP,MySQL</br>
-<h4>DataBase:MySQL</br>
+<h4>Front End:HTML,CSS,JavaScript</br>
+Back End:PHP,MySQL</br>
+DataBase:MySQL<h4></br>
