@@ -15,5 +15,5 @@ the requirements. For instance, he/she must be a registered citizen i.e. must be
 years old. As already stated, the project ‘Online Voting' provides means for fast and convenient 
 voting and access to this system is limited only to registered voters.</b><br><br>
 <h4>Front End:HTML,CSS,JavaScript</h3><br>
-<h4>Back End:PHP,MySQL</h4></br>
+<h4>Back End:PHP,MySQL</h4>
 <h4>DataBase:MySQL</h4></br>
