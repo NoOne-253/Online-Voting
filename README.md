@@ -13,4 +13,7 @@ registration should be done prior to the voting date to enable data update in th
 However, not just anybody can vote. For one to participate in the elections, he/she must have 
 the requirements. For instance, he/she must be a registered citizen i.e. must be 18 and above 
 years old. As already stated, the project ‘Online Voting' provides means for fast and convenient 
-voting and access to this system is limited only to registered voters.</b>
+voting and access to this system is limited only to registered voters.</b></br>>
+Front End :HTML,CSS,JavaScript
+Back End: PHP,MySQL
+DataBase:MySQL
